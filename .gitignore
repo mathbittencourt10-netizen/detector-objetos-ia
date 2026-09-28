@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# Pesos do YOLO — são baixados automaticamente na primeira execução
+*.pt
